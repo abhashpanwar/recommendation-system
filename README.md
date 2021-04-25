@@ -1,8 +1,11 @@
 # Recommendation-System
 • Content Based filtering
+
 • Collaborative based filtering
+
 • Hybrid based filtering (Combination of both)
 
+<pre>
 ├── DATA
 │       1) MovieLens-dataset-1
 │           ├── users
@@ -22,7 +25,7 @@
 |    ├── Recommendation System (Collaborative Based).ipynb
 |    ├── Recommendation System (Content Based).ipynb
 |    ├── Recommendation System using Weighted Hyrid .ipynb
-
+</pre>
 • This project goal is to build a Recommendation System, a system
 based on content filtering and collaborative filtering using KNN
 and cosine similarity. \
